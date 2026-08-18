@@ -1,5 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=jetbrains+mono&size=28&letterSpacing=-1px&duration=1&pause=1000&center=true&vCenter=true&width=435&lines=Hey%2C+I'm+gabihrunstech!)](https://git.io/typing-svg)
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=jetbrains+mono&size=28&letterSpacing=-1px&duration=1&pause=1000&center=true&vCenter=true&width=435&lines=----------------------------)](https://git.io/typing-svg)
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=jetbrains+mono&size=28&letterSpacing=-1px&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+profile)](https://git.io/typing-svg)
 
 ### **`👩‍💻Sobre mim`**
