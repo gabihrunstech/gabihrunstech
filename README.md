@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=jetbrains+mono&weight=100&size=30&duration=1&pause=1000&color=7500F7&center=true&vCenter=true&multiline=true&width=435&lines=Hey%2C+I'm+gabihrunstech!)](https://git.io/typing-svg)
 
-<hr style="background-color: #f7c200; height: 2px; border: none;" />
+<hr style="background-color: #ebb134; height: 2px; border: none;" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=jetbrains+mono&weight=100&size=30&pause=2000&color=FF00B1&center=true&vCenter=true&width=435&lines=Welcome+to+my+profile)](https://git.io/typing-svg)
 
