@@ -1,8 +1,10 @@
+
+
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=jetbrains+mono&weight=100&size=30&duration=1&pause=1000&color=7500F7&center=true&vCenter=true&multiline=true&width=435&lines=Hey%2C+I'm+gabihrunstech!)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=jetbrains+mono&weight=100&size=30&duration=1&pause=1000&color=D4A941&center=true&vCenter=true&multiline=true&width=435&lines=----------------------------)](https://git.io/typing-svg)
+<hr style="background-color: #f7c200; height: 2px; border: none;" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=jetbrains+mono&weight=100&size=30&pause=2000&color=FF00B1&center=true&vCenter=true&width=435&lines=Welcome+to+my+profile)](https://git.io/typing-svg)
 
@@ -16,7 +18,7 @@ Meu objetivo principal é atuar como Desenvolvedora de Software Fullstack, com f
 
 Sou apaixonada por tecnologia e compartilho meus conhecimentos através do meu perfil no Instagram **[@gabihrunstech](https://www.instagram.com/gabihrunstech/)** onde ensino sobre as tecnologias da contemporaneidade.
 
-----
+<hr style="background-color: #00cc66; height: 2px; border: none;" />
 
 **`Vamos nos conectar?`**
 
